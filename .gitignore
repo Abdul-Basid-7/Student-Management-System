@@ -1,0 +1,14 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Logs & uploads
+*.log
+uploads/
+
+# Environment/Secrets (VERY IMPORTANT)
+database.php
